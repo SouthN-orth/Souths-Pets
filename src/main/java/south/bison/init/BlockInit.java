@@ -1,4 +1,4 @@
-package net.south.bison.init;
+package south.bison.init;
 
 public class BlockInit {
 }

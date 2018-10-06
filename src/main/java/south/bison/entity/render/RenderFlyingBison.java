@@ -1,11 +1,11 @@
-package net.south.bison.entity.render;
+package south.bison.entity.render;
 
 import net.minecraft.client.renderer.entity.RenderLiving;
 import net.minecraft.client.renderer.entity.RenderManager;
 import net.minecraft.util.ResourceLocation;
-import net.south.bison.entity.EntityFlyingBison;
-import net.south.bison.entity.model.ModelFlyingBison;
-import net.south.bison.util.Reference;
+import south.bison.entity.EntityFlyingBison;
+import south.bison.entity.model.ModelFlyingBison;
+import south.bison.util.Reference;
 
 public class RenderFlyingBison extends RenderLiving<EntityFlyingBison>
 {

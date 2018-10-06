@@ -1,11 +1,11 @@
-package net.south.bison.util.handlers;
+package south.bison.util.handlers;
 
 import net.minecraft.item.Item;
 import net.minecraftforge.event.RegistryEvent;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.eventhandler.SubscribeEvent;
-import net.south.bison.init.EntityInit;
-import net.south.bison.init.ItemInit;
+import south.bison.init.EntityInit;
+import south.bison.init.ItemInit;
 
 @Mod.EventBusSubscriber
 public class RegistryHandler

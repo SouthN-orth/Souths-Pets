@@ -1,4 +1,4 @@
-package net.south.bison.util;
+package south.bison.util;
 
 public interface IHasModel {
 }
