@@ -1,3 +1,9 @@
+South's Flying Bison Mod
+
+Initial Idea:
+A large flying 'beast of burden' which will be able to carry several chests worth of items for easy transport between bases or when moving house or just to generally fly.
+
+
 ToDo:
 
 1. Get past initialisation stage
