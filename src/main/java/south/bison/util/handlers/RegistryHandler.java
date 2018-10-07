@@ -16,9 +16,4 @@ public class RegistryHandler
         event.getRegistry().registerAll(ItemInit.ITEMS.toArray(new Item[0]));
     }
 
-    public static void  preInitRegistries()
-    {
-        EntityInit.registerEntities();
-        RenderHandler.registerEntityRenders();
-    }
 }

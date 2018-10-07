@@ -8,6 +8,6 @@ public class Reference {
     public static final String CLIENT = "south.bison.proxy.ClientProxy";
     public static final String COMMON = "south.bison.proxy.CommonProxy";
 
-    public static final int ENTITY_AIRBISON = 120;
+    public static final int ENTITY_AIRBISON = 1;
 
 }
