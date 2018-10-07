@@ -1,4 +1,4 @@
-package net.south.bison.entity;
+package south.bison.entity;
 
 import net.minecraft.block.BlockHay;
 import net.minecraft.entity.EntityAgeable;

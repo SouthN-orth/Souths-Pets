@@ -1,7 +1,7 @@
-package net.south.bison.init;
+package south.bison.init;
 
 import net.minecraft.item.Item;
-import net.south.bison.objects.ItemBase;
+import south.bison.objects.ItemBase;
 
 import java.util.ArrayList;
 import java.util.List;

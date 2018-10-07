@@ -1,10 +1,10 @@
 [
 {
-  "modid": "fb",
+  "modid": "flyingbisons",
   "name": "Flying Bisons",
   "description": "Flying Bisons by South.",
-  "version": "1.0",
-  "mcversion": "1.12",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
   "authorList": ["South_North"],

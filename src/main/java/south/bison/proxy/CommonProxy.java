@@ -1,4 +1,4 @@
-package net.south.bison.proxy;
+package south.bison.proxy;
 
 import net.minecraft.item.Item;
 

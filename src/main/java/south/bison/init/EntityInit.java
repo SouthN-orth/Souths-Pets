@@ -1,11 +1,11 @@
-package net.south.bison.init;
+package south.bison.init;
 
 import net.minecraft.entity.Entity;
 import net.minecraft.util.ResourceLocation;
 import net.minecraftforge.fml.common.registry.EntityRegistry;
-import net.south.bison.Main;
-import net.south.bison.entity.EntityFlyingBison;
-import net.south.bison.util.Reference;
+import south.bison.Main;
+import south.bison.entity.EntityFlyingBison;
+import south.bison.util.Reference;
 
 public class EntityInit
 {

@@ -1,4 +1,4 @@
-package net.south.bison.entity.model;
+package south.bison.entity.model;
 
 import net.minecraft.client.model.ModelBase;
 import net.minecraft.client.model.ModelRenderer;

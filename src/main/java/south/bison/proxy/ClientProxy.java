@@ -1,12 +1,12 @@
-package net.south.bison.proxy;
+package south.bison.proxy;
 
 import net.minecraft.client.renderer.block.model.ModelResourceLocation;
 import net.minecraft.item.Item;
 import net.minecraft.util.ResourceLocation;
 import net.minecraftforge.client.model.ModelLoader;
-import net.south.bison.util.Reference;
+import south.bison.util.Reference;
 
-public class ClientProxy extends net.south.bison.proxy.CommonProxy
+public class ClientProxy extends CommonProxy
     {
     @Override
     public void registerItemRenderer(Item item, int meta, String id)

@@ -1,11 +1,11 @@
-package net.south.bison.util.handlers;
+package south.bison.util.handlers;
 
 import net.minecraft.client.renderer.entity.Render;
 import net.minecraft.client.renderer.entity.RenderManager;
 import net.minecraftforge.fml.client.registry.IRenderFactory;
 import net.minecraftforge.fml.client.registry.RenderingRegistry;
-import net.south.bison.entity.EntityFlyingBison;
-import net.south.bison.entity.render.RenderFlyingBison;
+import south.bison.entity.EntityFlyingBison;
+import south.bison.entity.render.RenderFlyingBison;
 
 public class RenderHandler
 {
