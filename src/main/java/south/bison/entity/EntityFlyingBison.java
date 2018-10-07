@@ -1,19 +1,19 @@
 package south.bison.entity;
 
-import net.minecraft.block.BlockHay;
 import net.minecraft.entity.EntityAgeable;
 import net.minecraft.entity.SharedMonsterAttributes;
 import net.minecraft.entity.ai.*;
 import net.minecraft.entity.passive.AbstractChestHorse;
-import net.minecraft.entity.passive.AbstractHorse;
-import net.minecraft.entity.passive.EntityHorse;
-import net.minecraft.entity.passive.EntityOcelot;
 import net.minecraft.entity.player.EntityPlayer;
 import net.minecraft.util.ResourceLocation;
 import net.minecraft.world.World;
+import south.bison.util.Reference;
 
 public class EntityFlyingBison extends AbstractChestHorse
 {
+
+    public static final ResourceLocation LOOT = new ResourceLocation(Reference.MODID, "entities/flyingbison");
+
 
     public EntityFlyingBison(World worldIn)
     {
