@@ -21,8 +21,7 @@ public class EntityInit
 
     EntityRegistry.addSpawn(EntityFlyingBison.class, 100, 3, 5, EnumCreatureType.CREATURE, Biomes.EXTREME_HILLS, Biomes.EXTREME_HILLS_EDGE);
 
-//        EntityRegistry.registerEgg(new ResourceLocation (Reference.MODID, "FlyingBison"), 0x996600, 0x00ff00);
-
+        EntityRegistry.registerEgg(new ResourceLocation (Reference.MODID, "FlyingBison"), 0x996600, 0x00ff00);
 
     }
 
